@@ -1,0 +1,5 @@
+<manifest>
+<project path="device/xiaomi/davinci" remote="AndreyDenikin1" name="device_xiaomi_davinci" revision="rice"/>
+<project path="device/xiaomi/sm6150-common" remote="AndreyDenikin1" name="android_device_xiaomi_sm6150-common" revision="rice"/>
+<project path="vendor/xiaomi/davinci" remote="AndreyDenikin1" name="vendor_xiaomi_davinci" revision="12.1"/>
+</manifest>
